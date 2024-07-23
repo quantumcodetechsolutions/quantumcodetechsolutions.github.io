@@ -1,0 +1,1 @@
+import{r as e}from"./index.RYns6xqu.js";import"./jsx-runtime.PRPpl5vZ.js";const r=["xxl","xl","lg","md","sm","xs"],n="xs",x=e.createContext({prefixes:{},breakpoints:r,minBreakpoint:n});function c(o,t){const{prefixes:s}=e.useContext(x);return o||s[t]||t}export{c as u};
